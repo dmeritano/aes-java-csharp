@@ -1,8 +1,8 @@
 # AES with C# and Java
 
-Encryption and decryption of text strings using the AES algorithm.  
+Encryption and decryption of text strings using **Advanced Encryption Standard** (AES) algorithm.  
 
-Strings encrypted in Java can be decrypted in C# and vice versa.
+Strings encrypted in **Java** can be decrypted in **C#** and vice versa.
 
 There are two projects (CSharpAES and JavaAES), with unit tests included. 
 
